@@ -170,7 +170,7 @@ showAdAttribution: true,
 title: botname,
 body: caption,
 mediaType: "VIDEO",
-mediaUrl: `https://githb.com/Ajmal-Achu/Wizard-MD`,
+mediaUrl: `https://instagram.com/texas__finnest`,
 description: ownername,
 previewType: "PHOTO",
 thumbnail: thumbwiz,
@@ -4138,8 +4138,8 @@ url: `${drips2.videos[0].url}`
 }
 }, {
 urlButton: {
-displayText: `GITHUB`, 
-url: `https://github.com/Ajmal-Achu/Wizard-MD`
+displayText: `INSTAGRAM`, 
+url: `https://instagram.com/texas__finnest`
 }
 }, {
 quickReplyButton: {
@@ -5007,7 +5007,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/mujahid40/Wizard-MD'
 }
 }]
 let txt = `「 *${global.botname} BROADCAST* 」\n\n${text}`
@@ -5026,7 +5026,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/mujahid40/Wizard-MD'
 }
 }]
 let txt = `「 *${global.botname} BROADCAST* 」\n\n${text}`
@@ -5059,7 +5059,7 @@ await sleep(1500)
 let butoon = [{
 urlButton: {
 displayText: `GITHUB`,
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/mujahid40/Wizard-MD'
 }
 },
 {
@@ -6614,7 +6614,7 @@ url: youtube
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+url: 'https://github.com/mujahid40/Wizard-MD'
 }
 }, {
 quickReplyButton: {
@@ -6635,7 +6635,7 @@ Wizard.relayMessage(m.chat, template.message, { messageId: template.key.id })
 break
   case 'bug': case 'report': {
   if(!text) throw `Enter The Bug Example\n\n${command} Menu Error `
-  Wizard.sendMessage(`918590508376@s.whatsapp.net`, {text: `*Bug Report From:* wa.me/${m.sender.split("@")[0]}
+  Wizard.sendMessage(`254711107992@s.whatsapp.net`, {text: `*Bug Report From:* wa.me/${m.sender.split("@")[0]}
 Report Message: ${text}` })
 reply(`*Successfully reported to the owner\n\nPlease make sure the bug is valid, if you play with this, use this feature again and again for no reason, you will be banned for using the bot*`)
   }
@@ -7308,8 +7308,8 @@ anu = `
         }
     }, {
         urlButton: {
-            displayText: 'GITHUB',
-            url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+            displayText: 'INSTAGRAM',
+            url: 'https://instagram.com/texas__finnest'
         }
     }, {
         quickReplyButton: {
@@ -7343,8 +7343,8 @@ anu = `
     }
     }, {
     urlButton: {
-    displayText: 'GITHUB',
-    url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+    displayText: 'INSTAGRAM',
+    url: 'https://instagram.com/texas__finnest'
     }
     }, {
     quickReplyButton: {
@@ -7381,8 +7381,8 @@ anu = `
     }
     }, {
     urlButton: {
-    displayText: 'GITHUB',
-    url: 'https://github.com/Ajmal-Achu/Wizard-MD'
+    displayText: 'INSTAGRAM',
+    url: 'hhttps://instagram.com/texas__finnest'
     }
     }, {
     quickReplyButton: {
